@@ -1,0 +1,14 @@
+﻿<Window x:Class="Recipie_Management_System.Window1"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Recipie_Management_System"
+        mc:Ignorable="d"
+        Title="Window1" Height="450" Width="800">
+    <Grid>
+        <TextBlock HorizontalAlignment="Left" Margin="318,135,0,0" Text="You have Successfully logged in." TextWrapping="Wrap" VerticalAlignment="Top"/>
+        <Button Content="Logout" Click="logoutClick" HorizontalAlignment="Left" Margin="371,217,0,0" VerticalAlignment="Top"/>
+
+    </Grid>
+</Window>

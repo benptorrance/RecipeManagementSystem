@@ -1,0 +1,19 @@
+C:\Users\Ben\source\repos\Recipe Management System\Recipe Management System\bin\Debug\netcoreapp3.1\Recipe Management System.exe
+C:\Users\Ben\source\repos\Recipe Management System\Recipe Management System\bin\Debug\netcoreapp3.1\Recipe Management System.deps.json
+C:\Users\Ben\source\repos\Recipe Management System\Recipe Management System\bin\Debug\netcoreapp3.1\Recipe Management System.runtimeconfig.json
+C:\Users\Ben\source\repos\Recipe Management System\Recipe Management System\bin\Debug\netcoreapp3.1\Recipe Management System.runtimeconfig.dev.json
+C:\Users\Ben\source\repos\Recipe Management System\Recipe Management System\bin\Debug\netcoreapp3.1\Recipe Management System.dll
+C:\Users\Ben\source\repos\Recipe Management System\Recipe Management System\bin\Debug\netcoreapp3.1\Recipe Management System.pdb
+C:\Users\Ben\source\repos\Recipe Management System\Recipe Management System\obj\Debug\netcoreapp3.1\Recipe Management System.csprojAssemblyReference.cache
+C:\Users\Ben\source\repos\Recipe Management System\Recipe Management System\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\Ben\source\repos\Recipe Management System\Recipe Management System\obj\Debug\netcoreapp3.1\Window1.g.cs
+C:\Users\Ben\source\repos\Recipe Management System\Recipe Management System\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\Ben\source\repos\Recipe Management System\Recipe Management System\obj\Debug\netcoreapp3.1\Recipe Management System_MarkupCompile.cache
+C:\Users\Ben\source\repos\Recipe Management System\Recipe Management System\obj\Debug\netcoreapp3.1\Recipe Management System_MarkupCompile.lref
+C:\Users\Ben\source\repos\Recipe Management System\Recipe Management System\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\Ben\source\repos\Recipe Management System\Recipe Management System\obj\Debug\netcoreapp3.1\Window1.baml
+C:\Users\Ben\source\repos\Recipe Management System\Recipe Management System\obj\Debug\netcoreapp3.1\Recipe Management System.g.resources
+C:\Users\Ben\source\repos\Recipe Management System\Recipe Management System\obj\Debug\netcoreapp3.1\Recipe Management System.AssemblyInfoInputs.cache
+C:\Users\Ben\source\repos\Recipe Management System\Recipe Management System\obj\Debug\netcoreapp3.1\Recipe Management System.AssemblyInfo.cs
+C:\Users\Ben\source\repos\Recipe Management System\Recipe Management System\obj\Debug\netcoreapp3.1\Recipe Management System.dll
+C:\Users\Ben\source\repos\Recipe Management System\Recipe Management System\obj\Debug\netcoreapp3.1\Recipe Management System.pdb
